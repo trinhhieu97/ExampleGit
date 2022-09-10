@@ -22,4 +22,5 @@ public class BinarySearch {
         }
     }
 //     code này không sử dụng được đâu
+//    code này sửa được chết liền
 }
